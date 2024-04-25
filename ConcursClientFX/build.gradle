@@ -1,0 +1,46 @@
+plugins {
+    id 'java'
+    id 'org.openjfx.javafxplugin' version '0.0.13'
+    id 'application'
+}
+
+group 'concurs.clientfx'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation group: 'org.apache.logging.log4j', name: 'log4j-core', version: '2.17.1'
+    implementation group: 'org.apache.logging.log4j', name: 'log4j-api', version: '2.16.0'
+    implementation project(':ConcursModel')
+    implementation project(':ConcursPersistence')
+    implementation project(':ConcursServices')
+    implementation project(':ConcursNetworking')
+    testImplementation 'org.junit.jupiter:junit-jupiter-api:5.8.1'
+    testRuntimeOnly 'org.junit.jupiter:junit-jupiter-engine:5.8.1'
+}
+
+javafx {
+    version = "17"
+    modules = [ 'javafx.controls', 'javafx.fxml'  ]
+}
+
+test {
+    useJUnitPlatform()
+
+
+}
+
+task wrapper(type: Wrapper){
+    gradleVersion = '7.2'
+}
+
+task prepareKotlinBuildScriptModel {
+
+}
+
+application{
+    mainClass='concurs.clientfx.StartRpcClientFx'
+}

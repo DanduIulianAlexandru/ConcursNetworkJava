@@ -1,0 +1,11 @@
+
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.( ¿Ÿåüÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(± Ããùÿÿÿÿ
+E	java:S106"+Replace this use of System.out by a logger.(îÍ Ïÿÿÿÿÿ
+?	java:S106"+Replace this use of System.out by a logger.(ÙÏš#
+@	java:S106#"+Replace this use of System.out by a logger.(Î÷¯Î
+V	java:S125&"<This block of commented-out lines of code should be removed.(Å…éøÿÿÿÿ
+@	java:S106+"+Replace this use of System.err by a logger.(éíØæ
+E	java:S1060"+Replace this use of System.err by a logger.(µ’ýÈûÿÿÿÿ
+l
+java:S1128"VRemove this unused import 'concurs.networking.utils.ConcursProtobuffConcurrentServer'.(±§

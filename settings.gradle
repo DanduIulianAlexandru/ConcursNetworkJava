@@ -1,0 +1,9 @@
+rootProject.name = "ConcursNetwork"
+include 'ConcursModel'
+include 'ConcursServices'
+include 'ConcursPersistence'
+include 'ConcursClientFX'
+include 'ConcursNetworking'
+include 'ConcursServer'
+include 'RestServices'
+

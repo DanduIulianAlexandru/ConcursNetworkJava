@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ConcursClientFX" />
+            <option value="$PROJECT_DIR$/ConcursModel" />
+            <option value="$PROJECT_DIR$/ConcursNetworking" />
+            <option value="$PROJECT_DIR$/ConcursPersistence" />
+            <option value="$PROJECT_DIR$/ConcursServer" />
+            <option value="$PROJECT_DIR$/ConcursServices" />
+            <option value="$PROJECT_DIR$/RestServices" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/ConcursClientFX" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/ConcursClientFX" />
+            <option value="$PROJECT_DIR$/ConcursModel" />
+            <option value="$PROJECT_DIR$/ConcursNetworking" />
+            <option value="$PROJECT_DIR$/ConcursPersistence" />
+            <option value="$PROJECT_DIR$/ConcursServer" />
+            <option value="$PROJECT_DIR$/ConcursServices" />
+            <option value="$PROJECT_DIR$/RestServices" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

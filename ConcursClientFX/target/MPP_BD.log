@@ -1,0 +1,351 @@
+21 Apr 2023 19:32:00,746 TRACE concurs.persistence.jdbc.DBRepositoryAdmin 22 <init> - Enter
+21 Apr 2023 19:32:00,750 INFO  concurs.persistence.jdbc.DBRepositoryAdmin 27 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+21 Apr 2023 19:32:00,751 TRACE concurs.persistence.jdbc.DBRepositoryAdmin 28 <init> - Exit
+21 Apr 2023 19:32:00,752 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 23 <init> - Enter
+21 Apr 2023 19:32:00,752 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 28 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+21 Apr 2023 19:32:00,752 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 29 <init> - Exit
+21 Apr 2023 19:32:00,754 TRACE concurs.persistence.jdbc.DBRepositoryProba 26 <init> - Enter
+21 Apr 2023 19:32:00,754 INFO  concurs.persistence.jdbc.DBRepositoryProba 31 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+21 Apr 2023 19:32:00,755 TRACE concurs.persistence.jdbc.DBRepositoryProba 32 <init> - Exit
+21 Apr 2023 19:39:17,432 TRACE concurs.persistence.jdbc.DBRepositoryAdmin 22 <init> - Enter
+21 Apr 2023 19:39:17,436 INFO  concurs.persistence.jdbc.DBRepositoryAdmin 27 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+21 Apr 2023 19:39:17,436 TRACE concurs.persistence.jdbc.DBRepositoryAdmin 28 <init> - Exit
+21 Apr 2023 19:39:17,438 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 23 <init> - Enter
+21 Apr 2023 19:39:17,438 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 28 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+21 Apr 2023 19:39:17,438 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 29 <init> - Exit
+21 Apr 2023 19:39:17,439 TRACE concurs.persistence.jdbc.DBRepositoryProba 26 <init> - Enter
+21 Apr 2023 19:39:17,440 INFO  concurs.persistence.jdbc.DBRepositoryProba 31 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+21 Apr 2023 19:39:17,440 TRACE concurs.persistence.jdbc.DBRepositoryProba 32 <init> - Exit
+21 Apr 2023 19:49:56,582 TRACE concurs.persistence.jdbc.DBRepositoryAdmin 22 <init> - Enter
+21 Apr 2023 19:49:56,586 INFO  concurs.persistence.jdbc.DBRepositoryAdmin 27 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+21 Apr 2023 19:49:56,586 TRACE concurs.persistence.jdbc.DBRepositoryAdmin 28 <init> - Exit
+21 Apr 2023 19:49:56,588 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 23 <init> - Enter
+21 Apr 2023 19:49:56,588 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 28 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+21 Apr 2023 19:49:56,588 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 29 <init> - Exit
+21 Apr 2023 19:49:56,589 TRACE concurs.persistence.jdbc.DBRepositoryProba 26 <init> - Enter
+21 Apr 2023 19:49:56,590 INFO  concurs.persistence.jdbc.DBRepositoryProba 31 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+21 Apr 2023 19:49:56,590 TRACE concurs.persistence.jdbc.DBRepositoryProba 32 <init> - Exit
+21 Apr 2023 19:50:04,831 TRACE concurs.persistence.jdbc.DBRepositoryAdmin 60 findAll - Enter
+21 Apr 2023 19:50:05,027 INFO  concurs.clientfx.LoginController 87 onLoginButtonClicked - Admin first logged
+21 Apr 2023 19:50:05,062 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 23 <init> - Enter
+21 Apr 2023 19:50:05,062 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 28 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+21 Apr 2023 19:50:05,062 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 29 <init> - Exit
+21 Apr 2023 19:50:05,062 TRACE concurs.persistence.jdbc.DBRepositoryProba 26 <init> - Enter
+21 Apr 2023 19:50:05,063 INFO  concurs.persistence.jdbc.DBRepositoryProba 31 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+21 Apr 2023 19:50:05,063 TRACE concurs.persistence.jdbc.DBRepositoryProba 32 <init> - Exit
+21 Apr 2023 19:50:05,063 TRACE concurs.persistence.jdbc.DBRepositoryProba 81 findAll - Enter
+21 Apr 2023 19:50:05,092 TRACE concurs.persistence.jdbc.DBRepositoryProba 113 findAll - Exit
+21 Apr 2023 19:50:05,094 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 70 findAll - Enter
+21 Apr 2023 19:50:05,129 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 87 findAll - Test
+21 Apr 2023 19:50:05,130 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 87 findAll - Test
+21 Apr 2023 19:50:05,130 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 87 findAll - Test
+21 Apr 2023 19:50:05,130 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 87 findAll - Test
+21 Apr 2023 19:50:05,130 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 87 findAll - Test
+21 Apr 2023 19:50:05,130 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 87 findAll - Test
+21 Apr 2023 19:50:05,131 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 87 findAll - Test
+21 Apr 2023 19:50:05,131 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 87 findAll - Test
+21 Apr 2023 19:50:05,131 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 87 findAll - Test
+21 Apr 2023 19:50:05,132 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 87 findAll - Test
+21 Apr 2023 19:50:05,132 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 96 findAll - Exit
+21 Apr 2023 19:50:19,481 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 107 findAllByName - Enter
+21 Apr 2023 19:50:19,511 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 133 findAllByName - Exit
+21 Apr 2023 19:50:19,511 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 144 findAllByAge - Enter
+21 Apr 2023 19:50:19,541 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 170 findAllByAge - Exit
+21 Apr 2023 19:50:22,983 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 107 findAllByName - Enter
+21 Apr 2023 19:50:23,011 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 133 findAllByName - Exit
+21 Apr 2023 19:50:23,012 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 144 findAllByAge - Enter
+21 Apr 2023 19:50:23,039 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 170 findAllByAge - Exit
+21 Apr 2023 19:50:26,383 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 107 findAllByName - Enter
+21 Apr 2023 19:50:26,411 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 133 findAllByName - Exit
+21 Apr 2023 19:52:51,423 TRACE concurs.persistence.jdbc.DBRepositoryAdmin 22 <init> - Enter
+21 Apr 2023 19:52:51,427 INFO  concurs.persistence.jdbc.DBRepositoryAdmin 27 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+21 Apr 2023 19:52:51,428 TRACE concurs.persistence.jdbc.DBRepositoryAdmin 28 <init> - Exit
+21 Apr 2023 19:52:51,429 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 23 <init> - Enter
+21 Apr 2023 19:52:51,430 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 28 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+21 Apr 2023 19:52:51,430 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 29 <init> - Exit
+21 Apr 2023 19:52:51,431 TRACE concurs.persistence.jdbc.DBRepositoryProba 26 <init> - Enter
+21 Apr 2023 19:52:51,431 INFO  concurs.persistence.jdbc.DBRepositoryProba 31 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+21 Apr 2023 19:52:51,432 TRACE concurs.persistence.jdbc.DBRepositoryProba 32 <init> - Exit
+21 Apr 2023 19:52:56,890 TRACE concurs.persistence.jdbc.DBRepositoryAdmin 60 findAll - Enter
+21 Apr 2023 19:52:57,117 INFO  concurs.clientfx.LoginController 87 onLoginButtonClicked - Admin first logged
+21 Apr 2023 19:52:57,157 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 23 <init> - Enter
+21 Apr 2023 19:52:57,157 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 28 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+21 Apr 2023 19:52:57,157 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 29 <init> - Exit
+21 Apr 2023 19:52:57,157 TRACE concurs.persistence.jdbc.DBRepositoryProba 26 <init> - Enter
+21 Apr 2023 19:52:57,158 INFO  concurs.persistence.jdbc.DBRepositoryProba 31 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+21 Apr 2023 19:52:57,158 TRACE concurs.persistence.jdbc.DBRepositoryProba 32 <init> - Exit
+21 Apr 2023 19:52:57,158 TRACE concurs.persistence.jdbc.DBRepositoryProba 81 findAll - Enter
+21 Apr 2023 19:52:57,190 TRACE concurs.persistence.jdbc.DBRepositoryProba 113 findAll - Exit
+21 Apr 2023 19:52:57,192 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 70 findAll - Enter
+21 Apr 2023 19:52:57,234 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 87 findAll - Test
+21 Apr 2023 19:52:57,234 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 87 findAll - Test
+21 Apr 2023 19:52:57,235 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 87 findAll - Test
+21 Apr 2023 19:52:57,235 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 87 findAll - Test
+21 Apr 2023 19:52:57,235 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 87 findAll - Test
+21 Apr 2023 19:52:57,236 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 87 findAll - Test
+21 Apr 2023 19:52:57,236 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 87 findAll - Test
+21 Apr 2023 19:52:57,236 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 87 findAll - Test
+21 Apr 2023 19:52:57,236 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 87 findAll - Test
+21 Apr 2023 19:52:57,237 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 87 findAll - Test
+21 Apr 2023 19:52:57,237 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 96 findAll - Exit
+21 Apr 2023 19:52:59,383 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 107 findAllByName - Enter
+21 Apr 2023 19:52:59,419 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 134 findAllByName - Exit
+21 Apr 2023 19:53:01,166 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 107 findAllByName - Enter
+21 Apr 2023 19:53:01,195 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 134 findAllByName - Exit
+21 Apr 2023 19:53:03,525 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 107 findAllByName - Enter
+21 Apr 2023 19:53:03,554 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 134 findAllByName - Exit
+21 Apr 2023 19:53:05,789 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 107 findAllByName - Enter
+21 Apr 2023 19:53:05,820 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 134 findAllByName - Exit
+21 Apr 2023 20:49:10,473 TRACE concurs.persistence.jdbc.DBRepositoryAdmin 22 <init> - Enter
+21 Apr 2023 20:49:10,476 INFO  concurs.persistence.jdbc.DBRepositoryAdmin 27 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+21 Apr 2023 20:49:10,477 TRACE concurs.persistence.jdbc.DBRepositoryAdmin 28 <init> - Exit
+21 Apr 2023 20:49:10,478 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 23 <init> - Enter
+21 Apr 2023 20:49:10,478 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 28 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+21 Apr 2023 20:49:10,479 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 29 <init> - Exit
+21 Apr 2023 20:49:10,481 TRACE concurs.persistence.jdbc.DBRepositoryProba 26 <init> - Enter
+21 Apr 2023 20:49:10,481 INFO  concurs.persistence.jdbc.DBRepositoryProba 31 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+21 Apr 2023 20:49:10,481 TRACE concurs.persistence.jdbc.DBRepositoryProba 32 <init> - Exit
+21 Apr 2023 21:08:33,626 TRACE concurs.persistence.jdbc.DBRepositoryAdmin 22 <init> - Enter
+21 Apr 2023 21:08:33,630 INFO  concurs.persistence.jdbc.DBRepositoryAdmin 27 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+21 Apr 2023 21:08:33,630 TRACE concurs.persistence.jdbc.DBRepositoryAdmin 28 <init> - Exit
+21 Apr 2023 21:08:33,631 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 23 <init> - Enter
+21 Apr 2023 21:08:33,632 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 28 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+21 Apr 2023 21:08:33,632 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 29 <init> - Exit
+21 Apr 2023 21:08:33,634 TRACE concurs.persistence.jdbc.DBRepositoryProba 26 <init> - Enter
+21 Apr 2023 21:08:33,634 INFO  concurs.persistence.jdbc.DBRepositoryProba 31 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+21 Apr 2023 21:08:33,634 TRACE concurs.persistence.jdbc.DBRepositoryProba 32 <init> - Exit
+21 Apr 2023 21:08:40,821 TRACE concurs.persistence.jdbc.DBRepositoryAdmin 60 findAll - Enter
+21 Apr 2023 21:08:41,026 INFO  concurs.clientfx.LoginController 87 onLoginButtonClicked - Admin first logged
+21 Apr 2023 21:08:41,062 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 23 <init> - Enter
+21 Apr 2023 21:08:41,062 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 28 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+21 Apr 2023 21:08:41,062 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 29 <init> - Exit
+21 Apr 2023 21:08:41,062 TRACE concurs.persistence.jdbc.DBRepositoryProba 26 <init> - Enter
+21 Apr 2023 21:08:41,062 INFO  concurs.persistence.jdbc.DBRepositoryProba 31 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+21 Apr 2023 21:08:41,063 TRACE concurs.persistence.jdbc.DBRepositoryProba 32 <init> - Exit
+21 Apr 2023 21:08:41,063 TRACE concurs.persistence.jdbc.DBRepositoryProba 81 findAll - Enter
+21 Apr 2023 21:08:41,091 TRACE concurs.persistence.jdbc.DBRepositoryProba 113 findAll - Exit
+21 Apr 2023 21:08:41,093 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 70 findAll - Enter
+21 Apr 2023 21:08:41,130 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 87 findAll - Test
+21 Apr 2023 21:08:41,131 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 87 findAll - Test
+21 Apr 2023 21:08:41,131 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 87 findAll - Test
+21 Apr 2023 21:08:41,131 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 87 findAll - Test
+21 Apr 2023 21:08:41,132 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 87 findAll - Test
+21 Apr 2023 21:08:41,132 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 87 findAll - Test
+21 Apr 2023 21:08:41,132 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 87 findAll - Test
+21 Apr 2023 21:08:41,132 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 87 findAll - Test
+21 Apr 2023 21:08:41,132 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 87 findAll - Test
+21 Apr 2023 21:08:41,133 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 87 findAll - Test
+21 Apr 2023 21:08:41,133 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 96 findAll - Exit
+21 Apr 2023 23:46:07,941 TRACE concurs.persistence.jdbc.DBRepositoryAdmin 22 <init> - Enter
+21 Apr 2023 23:46:07,945 INFO  concurs.persistence.jdbc.DBRepositoryAdmin 27 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+21 Apr 2023 23:46:07,946 TRACE concurs.persistence.jdbc.DBRepositoryAdmin 28 <init> - Exit
+21 Apr 2023 23:46:07,947 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 23 <init> - Enter
+21 Apr 2023 23:46:07,948 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 28 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+21 Apr 2023 23:46:07,948 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 29 <init> - Exit
+21 Apr 2023 23:46:07,949 TRACE concurs.persistence.jdbc.DBRepositoryProba 26 <init> - Enter
+21 Apr 2023 23:46:07,949 INFO  concurs.persistence.jdbc.DBRepositoryProba 31 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+21 Apr 2023 23:46:07,950 TRACE concurs.persistence.jdbc.DBRepositoryProba 32 <init> - Exit
+21 Apr 2023 23:57:42,278 TRACE concurs.persistence.jdbc.DBRepositoryAdmin 22 <init> - Enter
+21 Apr 2023 23:57:42,282 INFO  concurs.persistence.jdbc.DBRepositoryAdmin 27 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+21 Apr 2023 23:57:42,282 TRACE concurs.persistence.jdbc.DBRepositoryAdmin 28 <init> - Exit
+21 Apr 2023 23:57:42,284 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 23 <init> - Enter
+21 Apr 2023 23:57:42,284 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 28 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+21 Apr 2023 23:57:42,284 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 29 <init> - Exit
+21 Apr 2023 23:57:42,285 TRACE concurs.persistence.jdbc.DBRepositoryProba 26 <init> - Enter
+21 Apr 2023 23:57:42,286 INFO  concurs.persistence.jdbc.DBRepositoryProba 31 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+21 Apr 2023 23:57:42,286 TRACE concurs.persistence.jdbc.DBRepositoryProba 32 <init> - Exit
+22 Apr 2023 00:11:47,166 TRACE concurs.persistence.jdbc.DBRepositoryAdmin 22 <init> - Enter
+22 Apr 2023 00:11:47,170 INFO  concurs.persistence.jdbc.DBRepositoryAdmin 27 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+22 Apr 2023 00:11:47,171 TRACE concurs.persistence.jdbc.DBRepositoryAdmin 28 <init> - Exit
+22 Apr 2023 00:11:47,173 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 23 <init> - Enter
+22 Apr 2023 00:11:47,173 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 28 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+22 Apr 2023 00:11:47,173 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 29 <init> - Exit
+22 Apr 2023 00:11:47,174 TRACE concurs.persistence.jdbc.DBRepositoryProba 26 <init> - Enter
+22 Apr 2023 00:11:47,175 INFO  concurs.persistence.jdbc.DBRepositoryProba 31 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+22 Apr 2023 00:11:47,175 TRACE concurs.persistence.jdbc.DBRepositoryProba 32 <init> - Exit
+22 Apr 2023 00:14:06,219 TRACE concurs.persistence.jdbc.DBRepositoryAdmin 22 <init> - Enter
+22 Apr 2023 00:14:06,223 INFO  concurs.persistence.jdbc.DBRepositoryAdmin 27 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+22 Apr 2023 00:14:06,224 TRACE concurs.persistence.jdbc.DBRepositoryAdmin 28 <init> - Exit
+22 Apr 2023 00:14:06,226 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 23 <init> - Enter
+22 Apr 2023 00:14:06,226 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 28 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+22 Apr 2023 00:14:06,226 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 29 <init> - Exit
+22 Apr 2023 00:14:06,227 TRACE concurs.persistence.jdbc.DBRepositoryProba 26 <init> - Enter
+22 Apr 2023 00:14:06,228 INFO  concurs.persistence.jdbc.DBRepositoryProba 31 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+22 Apr 2023 00:14:06,228 TRACE concurs.persistence.jdbc.DBRepositoryProba 32 <init> - Exit
+22 Apr 2023 00:16:50,561 TRACE concurs.persistence.jdbc.DBRepositoryAdmin 22 <init> - Enter
+22 Apr 2023 00:16:50,566 INFO  concurs.persistence.jdbc.DBRepositoryAdmin 27 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+22 Apr 2023 00:16:50,566 TRACE concurs.persistence.jdbc.DBRepositoryAdmin 28 <init> - Exit
+22 Apr 2023 00:16:50,568 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 23 <init> - Enter
+22 Apr 2023 00:16:50,568 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 28 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+22 Apr 2023 00:16:50,568 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 29 <init> - Exit
+22 Apr 2023 00:16:50,570 TRACE concurs.persistence.jdbc.DBRepositoryProba 26 <init> - Enter
+22 Apr 2023 00:16:50,570 INFO  concurs.persistence.jdbc.DBRepositoryProba 31 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+22 Apr 2023 00:16:50,570 TRACE concurs.persistence.jdbc.DBRepositoryProba 32 <init> - Exit
+22 Apr 2023 01:56:42,113 INFO  concurs.clientfx.LoginController 94 onLoginButtonClicked - Admin first logged
+22 Apr 2023 01:56:49,782 INFO  concurs.clientfx.LoginController 94 onLoginButtonClicked - Admin dsadas logged
+24 Apr 2023 03:39:47,449 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+24 Apr 2023 03:41:25,956 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+24 Apr 2023 03:45:13,199 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+24 Apr 2023 03:45:55,813 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+24 Apr 2023 03:58:34,300 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+24 Apr 2023 03:59:17,391 INFO  concurs.clientfx.AppController 225 onLogoutClicked - Admin logged out
+24 Apr 2023 04:01:37,630 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+24 Apr 2023 04:01:59,881 INFO  concurs.clientfx.AppController 225 onLogoutClicked - Admin logged out
+24 Apr 2023 16:17:12,271 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+24 Apr 2023 16:17:25,128 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin second logged
+24 Apr 2023 16:17:42,570 ERROR concurs.clientfx.AppController 174 onInscrieClicked - concurs.services.ConcursException: Nume participant invalid
+24 Apr 2023 16:21:09,823 INFO  concurs.clientfx.AppController 225 onLogoutClicked - Admin logged out
+24 Apr 2023 16:21:13,223 INFO  concurs.clientfx.AppController 225 onLogoutClicked - Admin logged out
+24 Apr 2023 16:21:17,808 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+24 Apr 2023 16:31:37,938 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+24 Apr 2023 16:32:00,548 INFO  concurs.clientfx.AppController 230 onLogoutClicked - Admin logged out
+24 Apr 2023 16:38:03,311 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin second logged
+24 Apr 2023 16:42:25,472 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+24 Apr 2023 16:49:28,362 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+24 Apr 2023 16:50:04,783 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+24 Apr 2023 16:52:15,444 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+24 Apr 2023 17:01:26,958 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+24 Apr 2023 17:02:45,659 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin second logged
+24 Apr 2023 17:04:27,128 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+24 Apr 2023 17:04:58,267 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+24 Apr 2023 17:06:56,903 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+24 Apr 2023 17:16:16,677 INFO  concurs.clientfx.AppController 231 onLogoutClicked - Admin logged out
+24 Apr 2023 17:21:58,119 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+24 Apr 2023 17:23:16,811 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+24 Apr 2023 17:24:31,596 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+24 Apr 2023 17:24:46,653 INFO  concurs.clientfx.AppController 228 onLogoutClicked - Admin logged out
+25 Apr 2023 01:15:54,998 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+25 Apr 2023 01:16:16,687 INFO  concurs.clientfx.AppController 225 onLogoutClicked - Admin logged out
+25 Apr 2023 01:16:52,930 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+25 Apr 2023 01:17:07,663 INFO  concurs.clientfx.AppController 225 onLogoutClicked - Admin logged out
+25 Apr 2023 01:17:11,086 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+25 Apr 2023 01:17:54,721 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin second logged
+25 Apr 2023 01:17:59,466 INFO  concurs.clientfx.AppController 225 onLogoutClicked - Admin logged out
+25 Apr 2023 01:18:18,518 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+25 Apr 2023 01:18:55,392 INFO  concurs.clientfx.AppController 225 onLogoutClicked - Admin logged out
+25 Apr 2023 01:19:51,096 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+25 Apr 2023 01:20:30,223 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+25 Apr 2023 01:20:55,136 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin second logged
+25 Apr 2023 01:24:19,511 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+25 Apr 2023 01:25:10,806 INFO  concurs.clientfx.AppController 225 onLogoutClicked - Admin logged out
+25 Apr 2023 01:30:07,117 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+25 Apr 2023 01:32:03,562 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+25 Apr 2023 01:32:42,200 INFO  concurs.clientfx.AppController 225 onLogoutClicked - Admin logged out
+25 Apr 2023 01:33:48,245 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+25 Apr 2023 01:38:12,980 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+25 Apr 2023 01:39:52,220 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+25 Apr 2023 01:41:36,101 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+25 Apr 2023 02:58:25,631 INFO  concurs.clientfx.LoginController 97 onLoginButtonClicked - Admin first logged
+25 Apr 2023 02:58:55,702 INFO  concurs.clientfx.AppController 225 onLogoutClicked - Admin logged out
+25 Apr 2023 03:09:34,212 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+25 Apr 2023 03:10:19,644 INFO  concurs.clientfx.AppController 225 onLogoutClicked - Admin logged out
+25 Apr 2023 03:18:17,722 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+25 Apr 2023 03:18:59,259 INFO  concurs.clientfx.AppController 225 onLogoutClicked - Admin logged out
+25 Apr 2023 03:19:58,438 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+25 Apr 2023 03:20:12,657 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin second logged
+25 Apr 2023 03:21:10,032 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+25 Apr 2023 03:21:11,908 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+25 Apr 2023 03:25:29,151 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+30 Apr 2023 00:20:44,520 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+30 Apr 2023 15:15:59,793 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+30 Apr 2023 15:16:14,659 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+30 Apr 2023 15:16:51,352 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+30 Apr 2023 15:17:06,646 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin second logged
+30 Apr 2023 15:17:41,516 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+30 Apr 2023 15:17:54,046 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+30 Apr 2023 15:18:17,498 ERROR concurs.clientfx.AppController 176 onInscrieClicked - concurs.services.ConcursException: Varsta participant invalida
+30 Apr 2023 16:28:39,190 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+30 Apr 2023 16:29:33,243 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+30 Apr 2023 16:37:56,147 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+30 Apr 2023 16:39:15,185 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+30 Apr 2023 16:40:01,847 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+30 Apr 2023 16:40:05,485 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+30 Apr 2023 16:42:54,074 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+30 Apr 2023 16:43:01,142 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+30 Apr 2023 16:43:04,064 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+30 Apr 2023 16:44:36,537 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+30 Apr 2023 16:44:41,360 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+30 Apr 2023 16:44:44,041 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+30 Apr 2023 16:50:19,884 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+30 Apr 2023 16:50:24,086 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+30 Apr 2023 16:50:28,632 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+30 Apr 2023 16:52:13,167 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin second logged
+30 Apr 2023 16:52:17,939 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+30 Apr 2023 16:52:22,787 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin second logged
+30 Apr 2023 16:52:28,343 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+30 Apr 2023 16:53:44,986 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+30 Apr 2023 16:53:49,475 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+30 Apr 2023 16:53:52,244 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+30 Apr 2023 16:55:34,828 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+30 Apr 2023 16:59:08,206 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+30 Apr 2023 16:59:12,973 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+30 Apr 2023 16:59:24,562 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin second logged
+30 Apr 2023 16:59:38,283 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+30 Apr 2023 17:02:01,034 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+30 Apr 2023 17:02:56,438 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+30 Apr 2023 17:03:06,474 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+30 Apr 2023 17:03:12,066 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+30 Apr 2023 17:04:23,124 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+30 Apr 2023 17:04:27,788 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+30 Apr 2023 17:04:38,495 INFO  concurs.clientfx.LoginController 96 onLoginButtonClicked - Admin first logged
+30 Apr 2023 17:10:15,178 INFO  concurs.clientfx.LoginController 88 onLoginButtonClicked - Admin first logged
+30 Apr 2023 17:10:19,601 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+30 Apr 2023 17:10:23,217 INFO  concurs.clientfx.LoginController 88 onLoginButtonClicked - Admin first logged
+30 Apr 2023 17:10:33,082 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+30 Apr 2023 17:10:36,907 INFO  concurs.clientfx.LoginController 88 onLoginButtonClicked - Admin first logged
+30 Apr 2023 17:10:40,961 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+30 Apr 2023 18:08:58,367 INFO  concurs.clientfx.LoginController 88 onLoginButtonClicked - Admin first logged
+30 Apr 2023 18:09:36,599 INFO  concurs.clientfx.LoginController 88 onLoginButtonClicked - Admin second logged
+30 Apr 2023 18:10:17,544 ERROR concurs.clientfx.AppController 176 onInscrieClicked - concurs.services.ConcursException: Varsta participantului este invalida! 
+30 Apr 2023 18:10:32,151 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+30 Apr 2023 18:10:50,027 INFO  concurs.clientfx.LoginController 88 onLoginButtonClicked - Admin first logged
+30 Apr 2023 18:11:07,469 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+30 Apr 2023 18:11:09,794 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+30 Apr 2023 18:21:28,014 INFO  concurs.clientfx.LoginController 88 onLoginButtonClicked - Admin first logged
+30 Apr 2023 18:21:33,322 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+30 Apr 2023 18:27:43,647 INFO  concurs.clientfx.LoginController 88 onLoginButtonClicked - Admin first logged
+30 Apr 2023 18:27:47,498 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+30 Apr 2023 18:27:51,534 INFO  concurs.clientfx.LoginController 88 onLoginButtonClicked - Admin second logged
+30 Apr 2023 18:27:55,525 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+30 Apr 2023 18:28:01,046 INFO  concurs.clientfx.LoginController 88 onLoginButtonClicked - Admin first logged
+30 Apr 2023 18:28:24,135 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+30 Apr 2023 18:28:40,179 INFO  concurs.clientfx.LoginController 88 onLoginButtonClicked - Admin first logged
+30 Apr 2023 18:28:48,098 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+30 Apr 2023 20:35:29,330 INFO  concurs.clientfx.LoginController 88 onLoginButtonClicked - Admin first logged
+30 Apr 2023 20:35:51,773 INFO  concurs.clientfx.LoginController 88 onLoginButtonClicked - Admin second logged
+30 Apr 2023 20:36:23,690 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+30 Apr 2023 20:36:25,333 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+30 Apr 2023 20:47:37,215 INFO  concurs.clientfx.LoginController 88 onLoginButtonClicked - Admin first logged
+08 May 2023 14:31:23,003 INFO  concurs.clientfx.LoginController 88 onLoginButtonClicked - Admin first logged
+08 May 2023 14:31:32,087 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+08 May 2023 16:21:13,231 INFO  concurs.clientfx.LoginController 88 onLoginButtonClicked - Admin first logged
+08 May 2023 16:21:17,869 INFO  concurs.clientfx.LoginController 88 onLoginButtonClicked - Admin second logged
+08 May 2023 16:23:04,111 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+08 May 2023 16:23:08,208 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+09 May 2023 20:55:30,469 INFO  concurs.clientfx.LoginController 83 onLoginButtonClicked - Admin first logged
+09 May 2023 20:56:07,645 INFO  concurs.clientfx.LoginController 83 onLoginButtonClicked - Admin second logged
+09 May 2023 20:56:39,831 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+09 May 2023 20:56:41,492 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+15 May 2023 16:20:23,113 INFO  concurs.clientfx.LoginController 83 onLoginButtonClicked - Admin first logged
+15 May 2023 16:20:30,520 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+21 Apr 2024 12:50:03,019 INFO  concurs.clientfx.LoginController 83 onLoginButtonClicked - Admin first logged
+21 Apr 2024 15:40:54,387 INFO  concurs.clientfx.LoginController 83 onLoginButtonClicked - Admin a logged
+21 Apr 2024 15:42:34,550 INFO  concurs.clientfx.LoginController 83 onLoginButtonClicked - Admin a logged
+22 Apr 2024 13:12:01,893 INFO  concurs.clientfx.LoginController 83 onLoginButtonClicked - Admin a logged
+22 Apr 2024 13:30:37,650 INFO  concurs.clientfx.LoginController 83 onLoginButtonClicked - Admin a logged
+22 Apr 2024 13:33:00,451 INFO  concurs.clientfx.LoginController 83 onLoginButtonClicked - Admin a logged
+22 Apr 2024 13:34:03,092 INFO  concurs.clientfx.LoginController 83 onLoginButtonClicked - Admin a logged
+22 Apr 2024 13:35:15,298 INFO  concurs.clientfx.LoginController 83 onLoginButtonClicked - Admin a logged
+22 Apr 2024 13:38:16,448 INFO  concurs.clientfx.LoginController 83 onLoginButtonClicked - Admin a logged
+22 Apr 2024 13:39:15,386 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+22 Apr 2024 14:06:06,468 INFO  concurs.clientfx.LoginController 83 onLoginButtonClicked - Admin a logged
+22 Apr 2024 14:06:29,261 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+22 Apr 2024 14:09:12,680 INFO  concurs.clientfx.LoginController 83 onLoginButtonClicked - Admin a logged
+22 Apr 2024 14:09:32,614 INFO  concurs.clientfx.LoginController 83 onLoginButtonClicked - Admin b logged
+22 Apr 2024 14:10:29,295 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+22 Apr 2024 14:10:31,185 INFO  concurs.clientfx.AppController 227 onLogoutClicked - Admin logged out
+22 Apr 2024 16:13:08,316 INFO  concurs.clientfx.LoginController 83 onLoginButtonClicked - Admin a logged
+22 Apr 2024 16:13:15,001 INFO  concurs.clientfx.LoginController 83 onLoginButtonClicked - Admin b logged
+22 Apr 2024 16:13:32,792 ERROR concurs.clientfx.AppController 176 onInscrieClicked - concurs.services.ConcursException: Varsta participantului este invalida! 
+22 Apr 2024 16:16:10,370 INFO  concurs.clientfx.LoginController 83 onLoginButtonClicked - Admin a logged
+22 Apr 2024 16:16:27,950 INFO  concurs.clientfx.LoginController 83 onLoginButtonClicked - Admin b logged

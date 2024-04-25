@@ -1,0 +1,18 @@
+21 Apr 2023 23:45:07,722 TRACE concurs.persistence.jdbc.DBRepositoryAdmin 22 <init> - Enter
+21 Apr 2023 23:45:07,725 INFO  concurs.persistence.jdbc.DBRepositoryAdmin 27 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+21 Apr 2023 23:45:07,725 TRACE concurs.persistence.jdbc.DBRepositoryAdmin 28 <init> - Exit
+21 Apr 2023 23:45:07,726 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 23 <init> - Enter
+21 Apr 2023 23:45:07,726 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 28 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+21 Apr 2023 23:45:07,727 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 29 <init> - Exit
+21 Apr 2023 23:45:07,728 TRACE concurs.persistence.jdbc.DBRepositoryProba 26 <init> - Enter
+21 Apr 2023 23:45:07,728 INFO  concurs.persistence.jdbc.DBRepositoryProba 31 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+21 Apr 2023 23:45:07,728 TRACE concurs.persistence.jdbc.DBRepositoryProba 32 <init> - Exit
+21 Apr 2023 23:45:40,513 TRACE concurs.persistence.jdbc.DBRepositoryAdmin 22 <init> - Enter
+21 Apr 2023 23:45:40,516 INFO  concurs.persistence.jdbc.DBRepositoryAdmin 27 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+21 Apr 2023 23:45:40,517 TRACE concurs.persistence.jdbc.DBRepositoryAdmin 28 <init> - Exit
+21 Apr 2023 23:45:40,518 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 23 <init> - Enter
+21 Apr 2023 23:45:40,518 INFO  concurs.persistence.jdbc.DBRepositoryParticipant 28 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+21 Apr 2023 23:45:40,518 TRACE concurs.persistence.jdbc.DBRepositoryParticipant 29 <init> - Exit
+21 Apr 2023 23:45:40,520 TRACE concurs.persistence.jdbc.DBRepositoryProba 26 <init> - Enter
+21 Apr 2023 23:45:40,520 INFO  concurs.persistence.jdbc.DBRepositoryProba 31 <init> - trying to connect to database ... jdbc:postgresql://localhost:5432/mpp
+21 Apr 2023 23:45:40,520 TRACE concurs.persistence.jdbc.DBRepositoryProba 32 <init> - Exit

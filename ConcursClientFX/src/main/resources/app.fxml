@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="620.0" prefWidth="725.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="concurs.clientfx.AppController">
+   <children>
+      <TableView fx:id="tabelProbe" layoutX="63.0" layoutY="84.0" prefHeight="486.0" prefWidth="266.0">
+        <columns>
+          <TableColumn fx:id="idProbaCell" prefWidth="62.399993896484375" text="ID Proba" />
+          <TableColumn fx:id="distantaCell" prefWidth="72.79998016357422" text="Distanta" />
+            <TableColumn fx:id="stilCell" prefWidth="76.0" text="Stil" />
+            <TableColumn fx:id="nrParticipantiCell" prefWidth="52.79998779296875" text="Nr" />
+        </columns>
+      </TableView>
+      <Label layoutX="178.0" layoutY="38.0" prefHeight="18.0" prefWidth="36.0" text="Probe" />
+      <Label layoutX="478.0" layoutY="274.0" prefHeight="18.0" prefWidth="55.0" text="Cautare" />
+      <TextField fx:id="cautareField" layoutX="392.0" layoutY="302.0" />
+      <TableView fx:id="tabelParticipant" layoutX="392.0" layoutY="340.0" prefHeight="200.0" prefWidth="228.0">
+        <columns>
+          <TableColumn fx:id="numeCell" prefWidth="75.0" text="Nume" />
+          <TableColumn fx:id="varstaCell" prefWidth="44.79998779296875" text="Varsta" />
+            <TableColumn fx:id="listaProbeCell" prefWidth="105.60003662109375" text="Lista Probe" />
+        </columns>
+      </TableView>
+      <Label layoutX="491.0" layoutY="39.0" text="Inscrie participant" />
+      <TextField fx:id="numeField" layoutX="437.0" layoutY="79.0" />
+      <TextField fx:id="varstaField" layoutX="438.0" layoutY="126.0" />
+      <TextField fx:id="probeField" layoutX="438.0" layoutY="175.0" />
+      <Label layoutX="377.0" layoutY="83.0" text="Nume:" />
+      <Label layoutX="377.0" layoutY="130.0" text="Varsta:" />
+      <Label layoutX="377.0" layoutY="179.0" text="Probe:" />
+      <Button fx:id="inscrieButton" layoutX="625.0" layoutY="126.0" mnemonicParsing="false" onAction="#onInscrieClicked" text="Inscrie" />
+      <Button fx:id="logoutButton" layoutX="635.0" layoutY="572.0" mnemonicParsing="false" onAction="#onLogoutClicked" text="Logout" />
+      <Button fx:id="cautaButton" layoutX="572.0" layoutY="302.0" mnemonicParsing="false" onAction="#onCautaClicked" text="Cauta" />
+      <Label fx:id="infoLabel" layoutX="438.0" layoutY="201.0" prefHeight="14.0" prefWidth="118.0" text="Sub forma 1 2 3 4 5">
+         <font>
+            <Font size="9.0" />
+         </font>
+      </Label>
+      <Label fx:id="errorLabel" layoutX="424.0" layoutY="232.0" prefHeight="18.0" prefWidth="228.0" textFill="RED" />
+   </children>
+</AnchorPane>

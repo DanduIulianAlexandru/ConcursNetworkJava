@@ -1,0 +1,10 @@
+
+E	java:S106%"+Replace this use of System.err by a logger.(‰³ôÄúÿÿÿÿ
+E	java:S1068"+Replace this use of System.err by a logger.(ŸÌñÙÿÿÿÿÿ
+@	java:S106K"+Replace this use of System.err by a logger.(šÿü 
+@	java:S106["+Replace this use of System.err by a logger.(šÿü 
+E	java:S106k"+Replace this use of System.err by a logger.(ğêÅæùÿÿÿÿ
+E	java:S106z"+Replace this use of System.err by a logger.(§•äÍüÿÿÿÿ
+F	java:S106‹"+Replace this use of System.err by a logger.(§•äÍüÿÿÿÿ
+M
+java:S1068"2Remove this unused "adminValidator" private field.(æù¾ùÿÿÿÿ

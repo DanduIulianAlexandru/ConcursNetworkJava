@@ -1,0 +1,17 @@
+
+t
+java:S22931"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÜêÛŽÿÿÿÿÿ
+t
+java:S22933"YReplace the type specification in this constructor call with the diamond operator ("<>").(™û’ìþÿÿÿÿ
+t
+java:S2293K"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ë›Ž©ûÿÿÿÿ
+o
+java:S2293N"YReplace the type specification in this constructor call with the diamond operator ("<>").(¥Ø—’
+t	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ž…õŽúÿÿÿÿ
+E	java:S106""+Replace this use of System.out by a logger.(úÉ“ÿúÿÿÿÿ
+?	java:S106."+Replace this use of System.out by a logger.(€ð¤
+@	java:S1068"+Replace this use of System.out by a logger.(ìÝå¬
+@	java:S106@"+Replace this use of System.out by a logger.(Î»¯’
+E	java:S106H"+Replace this use of System.out by a logger.(ï‰ß«üÿÿÿÿ
+?	java:S106M"+Replace this use of System.out by a logger.(ðÜ¿
+V	java:S125T"<This block of commented-out lines of code should be removed.(ÈÎ¥éùÿÿÿÿ
